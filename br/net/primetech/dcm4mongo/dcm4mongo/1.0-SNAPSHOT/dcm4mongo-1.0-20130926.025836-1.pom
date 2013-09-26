@@ -106,6 +106,7 @@
                 </dependencies>
 
             </plugin>
+
         </plugins>
 
 
@@ -117,7 +118,7 @@
         <repository>
             <id>github</id>
             <name>GitHub ${project.artifactId} Repository</name>
-            <url>https://raw.github.com/sterlaydy/${project.artifactId}/mvn-repo</url>
+            <url>https://raw.github.com/sterlaydy/components/mvn-repo</url>
         </repository>
     </distributionManagement>
 
